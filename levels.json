@@ -1,45 +1,59 @@
 [
-  {
-    "tubes": [
+  [
       ["red", "blue", "red", "blue"],
       ["blue", "red", "blue", "red"],
       []
-    ]
-  },
+    ],
 
-  {
-    "tubes": [
+    [
       ["red", "green", "blue", "red"],
       ["blue", "red", "green", "green"],
-      ["blue", "green", "red", "blue"],
+      ["blue", "green", "red"],
       [],
       []
-    ]
-  },
+    ],
 
-  {
-    "tubes": [
-      ["red", "green", "yellow", "blue"],
+  [ ["red", "green", "yellow", "blue"],
       ["purple", "blue", "red", "yellow"],
       ["green", "purple", "blue", "red"],
       ["yellow", "green", "purple", "blue"],
       ["red", "yellow", "green", "purple"],
       [],
       []
-    ]
-  },
+    ],
 
-  {
-    "tubes": [
+  [
       ["red", "green", "yellow", "blue"],
-      ["purple", "orange", "red", "yellow"],
-      ["green", "purple", "blue", "orange"],
+      ["purple", "orange", "red" ],
+      ["green", "purple" ],
       ["yellow", "green", "purple", "blue"],
       ["red", "yellow", "green", "purple"],
       ["orange", "blue", "red", "orange"],
-      [],
+      ["blue", "orange"],
+      ["yellow"],
+      []
+    ]
+  [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "orange", "red" ],
+      ["green", "purple" ],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      ["orange", "blue", "red", "orange"],
+      ["blue", "orange"],
+      ["yellow"],
+      []
+    ],
+    [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "orange", "red" ],
+      ["green", "purple","lime" ],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      ["orange", "blue", "red", "orange"],
+      ["blue", "orange","lime","lime"],
+      ["yellow","lime"],
       [],
       []
     ]
-  }
 ]
