@@ -1,59 +1,35 @@
-[
-  [
-      ["red", "blue", "red", "blue"],
-      ["blue", "red", "blue", "red"],
-      []
-    ],
+{
+  "lives": 3,
+  "blocks": [
+    
+    { "row": 0, "col": 1, "color": "brightred", "direction": "left" },
+    { "row": 0, "col": 3, "color": "purple", "direction": "down" },
+    { "row": 0, "col": 6, "color": "navyblue", "direction": "up" },
+    { "row": 1, "col": 0, "color": "orange", "direction": "left" },
+    { "row": 1, "col": 2, "color": "brown", "direction": "down" },
+    { "row": 1, "col": 3, "color": "cream", "direction": "up" },
+    { "row": 1, "col": 4, "color": "megenta", "direction": "left" },
+    { "row": 1, "col": 6, "color": "royalblue", "direction": "up" },
+    { "row": 2, "col": 0, "color": "amber", "direction": "down" },
+    { "row": 2, "col": 2, "color": "lime", "direction": "down" },
+    { "row": 2, "col": 3, "color": "cream", "direction": "up" },
+    { "row": 2, "col": 4, "color": "pink", "direction": "left" },
+    { "row": 2, "col": 6, "color": "blue", "direction": "left" },
+    { "row": 3, "col": 0, "color": "yellow", "direction": "up" },
+    { "row": 3, "col": 1, "color": "lime", "direction": "left" },
+    { "row": 3, "col": 2, "color": "green", "direction": "up" },
+    { "row": 3, "col": 4, "color": "grayblue", "direction": "down" },
+    { "row": 3, "col": 5, "color": "lavender", "direction": "right" },
+    { "row": 3, "col": 6, "color": "blue", "direction": "down" },
 
-    [
-      ["red", "green", "blue", "red"],
-      ["blue", "red", "green", "green"],
-      ["blue", "green", "red"],
-      [],
-      []
-    ],
+    { "row": 4, "col": 2, "color": "mintgreen", "direction": "down" },
+    { "row": 4, "col": 4, "color": "teal", "direction": "left" },
 
-  [ ["red", "green", "yellow", "blue"],
-      ["purple", "blue", "red", "yellow"],
-      ["green", "purple", "blue", "red"],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
-      [],
-      []
-    ],
+    { "row": 5, "col": 1, "color": "brightgreen", "direction": "left" },
+    { "row": 5, "col": 2, "color": "darkgreen", "direction": "up" },
+    { "row": 5, "col": 4, "color": "cyan", "direction": "up" },
+    { "row": 5, "col": 5, "color": "darkblue", "direction": "down" }
 
-  [
-      ["red", "green", "yellow", "blue"],
-      ["purple", "orange", "red" ],
-      ["green", "purple" ],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
-      ["orange", "blue", "red", "orange"],
-      ["blue", "orange"],
-      ["yellow"],
-      []
-    ]
-  [
-      ["red", "green", "yellow", "blue"],
-      ["purple", "orange", "red" ],
-      ["green", "purple" ],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
-      ["orange", "blue", "red", "orange"],
-      ["blue", "orange"],
-      ["yellow"],
-      []
-    ],
-    [
-      ["red", "green", "yellow", "blue"],
-      ["purple", "orange", "red" ],
-      ["green", "purple","lime" ],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
-      ["orange", "blue", "red", "orange"],
-      ["blue", "orange","lime","lime"],
-      ["yellow","lime"],
-      [],
-      []
-    ]
-]
+   
+  ]
+}
