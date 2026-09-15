@@ -366539,25 +366539,25 @@
         "x": 18,
         "y": 8,
         "color": "grayblue",
-        "direction": "left"
+        "direction": "right"
       },
       {
         "x": 18,
         "y": 9,
         "color": "grayblue",
-        "direction": "left"
+        "direction": "right"
       },
       {
         "x": 18,
         "y": 10,
         "color": "royalblue",
-        "direction": "left"
+        "direction": "right"
       },
       {
         "x": 18,
         "y": 11,
         "color": "royalblue",
-        "direction": "left"
+        "direction": "right"
       },
       {
         "x": 18,
@@ -366879,7 +366879,7 @@
       },
       {
         "x": 22,
-        "y": 0,
+        "y": 9,
         "color": "lavender",
         "direction": "down"
       },
@@ -373100,6 +373100,12 @@
         "direction": "right"
       },
       {
+        "x": 1,
+        "y": 9,
+        "color": "orange",
+        "direction": "right"  
+      },
+      {
         "x": 2,
         "y": 5,
         "color": "brown",
@@ -373128,6 +373134,12 @@
         "y": 9,
         "color": "brown",
         "direction": "right"
+      },
+      {
+        "x": 2,
+        "y": 10,
+        "color": "brown",
+        "direction": "right"  
       },
       {
         "x": 3,
@@ -373298,7 +373310,7 @@
         "direction": "right"
       },
       {
-        "x": 2,
+        "x": 5,
         "y": 10,
         "color": "orange",
         "direction": "right"
@@ -445145,6 +445157,12 @@
       },
       {
         "x": 15,
+        "y": 13,
+        "color": "green",
+        "direction": "right"  
+      },
+      {
+        "x": 15,
         "y": 16,
         "color": "indigoblue",
         "direction": "right"
@@ -445238,6 +445256,12 @@
         "y": 12,
         "color": "darkgreen",
         "direction": "up"
+      },
+      {
+        "x": 16,
+        "y": 13,
+        "color": "green",
+        "direction": "right"  
       },
       {
         "x": 16,
@@ -544255,7 +544279,7 @@
     },
     {
       "x": 1,
-      "y": 16,
+      "y": 17,
       "color": "cream",
       "direction": "right"
     },
@@ -592144,6 +592168,12 @@
       "direction": "right"   
     },
     {
+      "x": 8,
+      "y": 16,
+      "color": "pink",
+      "direction": "right"     
+    },
+    {
       "x": 9,
       "y": 1,
       "color": "grayblue",
@@ -592226,6 +592256,18 @@
       "y": 15,
       "color": "pink",
       "direction": "right"  
+    },
+    {
+      "x": 9,
+      "y": 16,
+      "color": "pink",
+      "direction": "right"
+    },
+    {
+      "x": 9,
+      "y": 17,
+      "color": "pink",
+      "direction": "right"    
     },
     {
       "x": 10,
