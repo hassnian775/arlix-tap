@@ -645917,7 +645917,7 @@
     {
       "x": 15,
       "y": 2,
-      "color": "lime",
+      "color": "brown",
       "direction": "left"
     },
     {
@@ -972110,7 +972110,7 @@
     {
       "x": 10,
       "y": 0,
-      "color": "cream",
+      "color": "pink",
       "direction": "up"
     },
     {
@@ -972122,7 +972122,7 @@
     {
       "x": 10,
       "y": 20,
-      "color": "brown",
+      "color": "cream",
       "direction": "left"
     },
     {
@@ -972182,13 +972182,13 @@
     {
       "x": 11,
       "y": 1,
-      "color": "cream",
+      "color": "pink",
       "direction": "up"
     },
     {
       "x": 11,
       "y": 2,
-      "color": "cream",
+      "color": "pink",
       "direction": "up"
     },
     {
@@ -973376,7 +973376,7 @@
     {
       "x": 24,
       "y": 15,
-      "color": "brown",
+      "color": "pink",
       "direction": "left"
     },
     {
@@ -1014131,7 +1014131,7 @@
       "x": 19,
       "y": 7,
       "color": "teal",
-      "direction": "up"  
+      "direction": "right"  
     },
     {
       "x": 20,
@@ -1014155,13 +1014155,13 @@
       "x": 20,
       "y": 5,
       "color": "teal",
-      "direction": "down"
+      "direction": "right"
     },
     {
       "x": 20,
       "y": 6,
       "color": "teal",
-      "direction": "down"   
+      "direction": "right"   
     },
     {
       "x": 21,
@@ -1014173,13 +1014173,13 @@
       "x": 21,
       "y": 4,
       "color": "teal",
-      "direction": "down"
+      "direction": "right"
     },
     {
       "x": 21,
       "y": 5,
       "color": "teal",
-      "direction": "down"  
+      "direction": "right"  
     },
     {
       "x": 22,
@@ -1014191,7 +1014191,7 @@
       "x": 22,
       "y": 4,
       "color": "teal",
-      "direction": "down"   
+      "direction": "right"   
     }
   ]
 },
@@ -1099070,7 +1099070,7 @@
     {
       "x": 4,
       "y": 14,
-      "color": "megenta",
+      "color": "brightred",
       "direction": "up"
     },
     {
@@ -1099796,7 +1099796,7 @@
     {
       "x": 10,
       "y": 5,
-      "color": "megenta",
+      "color": "brightred",
       "direction": "up"
     },
     {
@@ -1099928,7 +1099928,7 @@
     {
       "x": 10,
       "y": 27,
-      "color": "green",
+      "color": "navyblue",
       "direction": "up"
     },
     {
@@ -1100348,7 +1100348,7 @@
     {
       "x": 13,
       "y": 14,
-      "color": "pink",
+      "color": "brightred",
       "direction": "down"
     },
     {
