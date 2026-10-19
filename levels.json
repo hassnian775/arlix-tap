@@ -1196516,6 +1196516,12 @@
     },
     {
       "x": 4,
+      "y": 2,
+      "color": "brown",
+      "direction": "left"  
+    },
+    {
+      "x": 4,
       "y": 3,
       "color": "brown",
       "direction": "left"
@@ -1196621,6 +1196627,12 @@
       "y": 5,
       "color": "brown",
       "direction": "up"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "color": "brown",
+      "direction": "right"  
     },
     {
       "x": 7,
